@@ -9,8 +9,6 @@
  
    [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mh.kim368@gmail.com)](mailto:mh.kim368@gmail.com) [![Medium Badge](http://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&link=https://medium.com/@mino94)](https://medium.com/@mino94) [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/minho-kim-a92b33198/)]( https://www.linkedin.com/in/minho-kim-a92b33198/)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mino94)](https://github.com/Mino94/github-readme-stats)
-
 <!--
 **Mino94/Mino94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
