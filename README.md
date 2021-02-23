@@ -3,7 +3,6 @@
 
 
 
- 🌱  개발자를 꿈꾸고 있습니다. 개발을 시작한지 얼마 안됬지만 열정하나 만큼은 자신있습니다. 끊임없이 도전하고 노력하는 개발자가 되겠습니다.
  
  📚 Hello I'm Minho Kim, I am dreaming of becoming a developer. I’m currently learning Data Science and Artificial intelligence 💻 since 2018. I have project experience using Python(My most confident language), Java , c#. I am very interested in machine learning and Data science. 
  
@@ -13,6 +12,7 @@
 **Mino94/Mino94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+ 🌱  개발자를 꿈꾸고 있습니다. 개발을 시작한지 얼마 안됬지만 열정하나 만큼은 자신있습니다. 끊임없이 도전하고 노력하는 개발자가 되겠습니다.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Data Science and Artificial intelligence
