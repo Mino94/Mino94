@@ -1,8 +1,8 @@
 
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://github.com/Mino94) 
-
 
 <!--
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://github.com/Mino94) 
+
  
  📚 Hello I'm Minho Kim, I am dreaming of becoming a developer. I’m currently learning Data Science and Artificial intelligence 💻 since 2018. I have project experience using Python(My most confident language), Java , c#. I am very interested in machine learning and Data science. 
  -->
