@@ -3,8 +3,10 @@
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://github.com/Mino94) 
 
  
+
+ 📚 Hello I'm Minho Kim !
 <!--
- 📚 Hello I'm Minho Kim, I am dreaming of becoming a developer. I’m currently learning Data Science and Artificial intelligence 💻 since 2018. I have project experience using Python(My most confident language), Java , c#. I am very interested in machine learning and Data science. 
+, I am dreaming of becoming a developer. I’m currently learning Data Science and Artificial intelligence 💻 since 2018. I have project experience using Python(My most confident language), Java , c#. I am very interested in machine learning and Data science. 
  -->
 
    [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mh.kim368@gmail.com)](mailto:mh.kim368@gmail.com) [![Medium Badge](http://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&link=https://medium.com/@mino94)](https://medium.com/@mino94) [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/minho-kim-a92b33198/)]( https://www.linkedin.com/in/minho-kim-a92b33198/)
